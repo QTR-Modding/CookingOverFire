@@ -1,0 +1,38 @@
+Grilled Chicken Breast: 000E8947
+FoodChickenBurnt: FoodChickenBurnt
+
+Cooked Beef: 000721E8
+FoodBeefBurnt: FoodBeefBurnt
+ 
+Leg of Goat Roast: 0007224C
+FoodGoatMeatBurnt: FoodGoatMeatBurnt
+ 
+Horker Loaf: 0007224E
+FoodHorkerMeatBurnt: FoodHorkerMeatBurnt
+ 
+Horse Haunch: 000722B0
+FoodHorseMeatBurnt: FoodHorseMeatBurnt
+ 
+Mammoth Steak: 000722BB
+FoodMammothMeatBurnt: FoodMammothMeatBurnt
+
+Pheasant Roast: 000722C7
+FoodPheasantBurnt: FoodPheasantBurnt
+ 
+Rabbit Haunch: 000722C2
+FoodRabbitBurnt: FoodRabbitBurnt
+ 
+Salmon Steak: 00064B3B
+FoodSalmonBurnt: FoodSalmonBurnt
+ 
+Venison Chop: FoodVenisonCooked
+FoodVenisonBurnt: FoodVenisonBurnt
+
+FoodLeeksGrilled: 00064B3E
+FoodLeeksGrilledBurnt: FoodLeeksGrilledBurnt
+
+FoodPotatoesBaked: 00064B3A
+FoodPotatoesBurnt: FoodPotatoesBurnt
+
+FoodSlaughterfishCooked: 00064B3C
+FoodSlaughterfishBurnt: FoodSlaughterfishBurnt

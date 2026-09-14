@@ -1,0 +1,9 @@
+0x25BBA~Campfire.esm
+0x25BBB~Campfire.esm
+0x25BBC~Campfire.esm
+0x25BBD~Campfire.esm
+0x328B9~Campfire.esm
+0x33E69~Campfire.esm
+0x33E67~Campfire.esm
+0x328A8~Campfire.esm
+0x328A6~Campfire.esm

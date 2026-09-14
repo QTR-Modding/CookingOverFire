@@ -1,0 +1,2 @@
+00RBC_Campfire_Burning
+00RBC_Campfire_LandBurning

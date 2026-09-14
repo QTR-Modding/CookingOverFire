@@ -1,0 +1,17 @@
+Alax_RawDeerMeat: Alax_RawDeerMeat
+Alax_SmokedDeerMeat: Alax_SmokedDeerMeat
+
+Alax_Turnip01: Alax_Turnip01
+Alax_CookedTurnip: 00064B3E
+
+Alax_Turnip02: Alax_Turnip02
+Alax_CookedTurnip: 00064B3E
+
+Alax_Salmon02: Alax_Salmon02
+Alax_CookedFish: Alax_CookedFish
+
+Alax_Salmon03: Alax_Salmon03
+Alax_CookedFish: Alax_CookedFish
+
+Alax_Salmon04: Alax_Salmon04
+Alax_CookedFish: Alax_CookedFish

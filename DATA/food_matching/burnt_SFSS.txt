@@ -1,0 +1,23 @@
+Leg of Goat Roast: RND_FoodStaleGoatMeatCooked
+FoodGoatMeatBurnt: FoodGoatMeatBurnt
+ 
+Mammoth Steak: StaleFoodMammothMeatCooked
+FoodMammothMeatBurnt: FoodMammothMeatBurnt
+ 
+Pheasant Roast: RND_FoodStalePheasantCooked
+FoodPheasantBurnt: FoodPheasantBurnt
+ 
+Salmon Steak: StaleFoodCookedSalmon
+FoodSalmonBurnt: FoodSalmonBurnt
+ 
+Venison Chop: StaleFoodVenisonCooked
+FoodVenisonBurnt: FoodVenisonBurnt
+
+FoodLeeksGrilled: RND_FoodStaleLeeksGrilled
+FoodLeeksGrilledBurnt: FoodLeeksGrilledBurnt
+
+FoodPotatoesBaked: RND_FoodStalePotatoesBaked
+FoodPotatoesBurnt: FoodPotatoesBurnt
+
+FoodSlaughterfishCooked: RND_FoodStaleSlaughterfishCooked
+FoodSlaughterfishBurnt: FoodSlaughterfishBurnt

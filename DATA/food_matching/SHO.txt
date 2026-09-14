@@ -1,0 +1,5 @@
+_SkeeverUncookedMeat: _SkeeverUncookedMeat
+Charred Skeever Meat: 000E8448
+
+_UncookedMeat: _UncookedMeat
+_GenericCookedMeat: _GenericCookedMeat

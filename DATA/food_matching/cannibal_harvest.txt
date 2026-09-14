@@ -1,0 +1,11 @@
+_Cannibalfoodkittymeat: 0x800~Cannibal Harvest.esp
+_GenericCookedMeat: _GenericCookedMeat
+
+_Cannibalfoodhumanflesh: 0x801~Cannibal Harvest.esp
+_GenericCookedMeat: _GenericCookedMeat
+
+_Cannibalfoodmermeat: 0x802~Cannibal Harvest.esp
+_GenericCookedMeat: _GenericCookedMeat
+
+_Cannibalfoodlizzardmeat: 0x803~Cannibal Harvest.esp
+_GenericCookedMeat: _GenericCookedMeat

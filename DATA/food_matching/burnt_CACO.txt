@@ -1,0 +1,8 @@
+CACO_FoodMeatGoatPortionCooked: CACO_FoodMeatGoatPortionCooked
+FoodGoatMeatBurnt: FoodGoatMeatBurnt
+
+CACO_FoodMeatMammothCooked: CACO_FoodMeatMammothCooked
+FoodMammothMeatBurnt: FoodMammothMeatBurnt
+
+FoodMeatHorseCookedPortion: FoodMeatHorseCookedPortion
+FoodHorseMeatBurnt: FoodHorseMeatBurnt

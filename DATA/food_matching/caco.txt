@@ -1,0 +1,123 @@
+FoodMeatBeefRawPortion: FoodMeatBeefRawPortion
+FoodBeefCooked: 000721E8
+
+DLC2FoodMeatAshHopperLeg: 0403D125
+CACO_FoodMeatAshHopperLegCooked_SL00: CACO_FoodMeatAshHopperLegCooked_SL00
+
+CACO_FoodMeatAshHopperLegRawPortion_SL00: CACO_FoodMeatAshHopperLegRawPortion_SL00
+CACO_FoodMeatAshHopperLegCooked_SL00: CACO_FoodMeatAshHopperLegCooked_SL00
+
+CACO_FoodMeatBoarRawPortion: CACO_FoodMeatBoarRawPortion
+DLC2FoodBoarMeatCooked: CACO_FoodMeatBoarCookedPortion
+
+CACO_FoodMeatAshHopperMeat: CACO_FoodMeatAshHopperMeat
+CACO_FoodMeatAshHopperMeatCooked: CACO_FoodMeatAshHopperMeatCooked
+
+CACO_FoodMeatBear: CACO_FoodMeatBear
+CACO_FoodMeatBearCooked: CACO_FoodMeatBearCooked
+
+CACO_FoodMeatBearRawPortion: CACO_FoodMeatBearRawPortion
+CACO_FoodMeatBearCooked: CACO_FoodMeatBearCooked
+
+CACO_FoodMeatChaurusMeat: CACO_FoodMeatChaurusMeat
+CACO_FoodMeatChaurusMeatCooked: CACO_FoodMeatChaurusMeatCooked
+
+FoodMeatDog: 000EDB2E
+CACO_FoodMeatDogCooked: CACO_FoodMeatDogCooked
+
+CACO_FoodMeatFox: CACO_FoodMeatFox
+CACO_FoodMeatFoxCooked: CACO_FoodMeatFoxCooked
+
+CACO_FoodMeatGoatPortionRaw: CACO_FoodMeatGoatPortionRaw
+CACO_FoodMeatGoatPortionCooked: CACO_FoodMeatGoatPortionCooked
+
+FoodMeatGoat: 00065C9A
+CACO_FoodMeatGoatPortionCooked: CACO_FoodMeatGoatPortionCooked
+
+CACO_FoodMeatHawk_HOC: CACO_FoodMeatHawk_HOC
+CACO_FoodMeatHawkCooked_HOC: CACO_FoodMeatHawkCooked_HOC
+
+Raw Hominid Flesh: 01CCA130~Complete Alchemy & Cooking Overhaul.esp
+CACO_FoodMeatHumanoidFleshCooked: CACO_FoodMeatHumanoidFleshCooked
+
+CACO_FoodMeatHumanoidFleshRawPortion: CACO_FoodMeatHumanoidFleshRawPortion
+CACO_FoodMeatHumanoidFleshCooked: CACO_FoodMeatHumanoidFleshCooked
+
+CACO_FoodMeatMammoth: CACO_FoodMeatMammoth
+CACO_FoodMeatMammothCooked: CACO_FoodMeatMammothCooked
+
+FoodMeatMammothRawPortion: FoodMeatMammothRawPortion
+CACO_FoodMeatMammothCooked: CACO_FoodMeatMammothCooked
+
+CACO_FoodMeatPorkRawPortion: CACO_FoodMeatPorkRawPortion
+CACO_FoodMeatPorkCookedPortion: CACO_FoodMeatPorkCookedPortion
+
+CACO_ElvenHeart_SF: CACO_ElvenHeart_SF
+CACO_FoodMeatRoastedHeart_Wolfs: CACO_FoodMeatRoastedHeart_Wolfs
+
+HumanHeart: 000B18CD
+CACO_FoodMeatRoastedHeart_Wolfs: CACO_FoodMeatRoastedHeart_Wolfs
+
+DaedraHeart: 0003AD5B
+CACO_FoodMeatRoastedHeart_Wolfs: CACO_FoodMeatRoastedHeart_Wolfs
+
+MoraTapinellaBits: 000EC870
+CACO_FoodMushMoraTapinella_SL00: CACO_FoodMushMoraTapinella_SL00
+
+ScalyPholiotaBits: 0006F950
+CACO_FoodMushScalyPholiota_SL00: CACO_FoodMushScalyPholiota_SL00
+
+CACO_FoodMeatSabre: CACO_FoodMeatSabre
+CACO_FoodMeatSabreCooked: CACO_FoodMeatSabreCooked
+
+CACO_FoodMeatSabreRawPortion: CACO_FoodMeatSabreRawPortion
+CACO_FoodMeatSabreCooked: CACO_FoodMeatSabreCooked
+
+CACO_FoodSeaSlaughterfishRaw: CACO_FoodSeaSlaughterfishRaw
+FoodSeaSlaughterfishCooked: 00064B3C
+
+CACO_FoodMeatTern_HOC: CACO_FoodMeatTern_HOC
+CACO_FoodMeatTernCooked_HOC: CACO_FoodMeatTernCooked_HOC
+
+CACO_FoodMeatTroll: CACO_FoodMeatTroll
+CACO_FoodMeatTrollCooked: CACO_FoodMeatTrollCooked
+
+CACO_FoodMeatTrollRawPortion: CACO_FoodMeatTrollRawPortion
+CACO_FoodMeatTrollCooked: CACO_FoodMeatTrollCooked
+
+FoodMeatVenisonRawPortion: FoodMeatVenisonRawPortion
+FoodMeatVenisonCooked: 000722BD
+
+DLC2FoodVegAshYam: 040206E7
+CACO_FoodVegAshYamBaked: CACO_FoodVegAshYamBaked
+
+CACO_FoodMeatSkeeverRaw: CACO_FoodMeatSkeeverRaw
+FoodMeatSkeeverCharred: 000E8448
+
+MudcrabChitin: 0006BC00
+CACO_FoodSeaMudcrabClaw_SL00: CACO_FoodSeaMudcrabClaw_SL00
+
+FoodVegCarrot: 00064B40
+CACO_FoodVegCarrotsGrilled: CACO_FoodVegCarrotsGrilled
+
+CACO_FoodMeatSheepRaw: 01CCA146~Complete Alchemy & Cooking Overhaul.esp
+CACO_FoodMeatSheepCooked: CACO_FoodMeatSheepCooked
+
+SkeeverTail: 0003AD6F
+CACO_FoodMeatSkeeverTailCooked: CACO_FoodMeatSkeeverTailCooked
+
+FoodMeatHorseRawPortion: FoodMeatHorseRawPortion
+FoodMeatHorseCookedPortion: FoodMeatHorseCookedPortion
+
+FoodMeatHorse: 00065C9C
+FoodMeatHorseCookedPortion: FoodMeatHorseCookedPortion
+
+FoodMeatHorkerRawPortion: FoodMeatHorkerRawPortion
+FoodMeatHorkerCooked: 0007224E
+
+DLC2FoodMeatBoar: 0403BD14
+CACO_FoodMeatBoarCookedPortion: CACO_FoodMeatBoarCookedPortion
+
+FoodSeaClam: 000EBA03
+CACO_FoodSeaClamCooked: CACO_FoodSeaClamCooked
+

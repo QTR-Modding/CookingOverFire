@@ -1,0 +1,13 @@
+FoodChickenBurnt
+FoodBeefBurnt
+FoodGoatMeatBurnt
+FoodHorkerMeatBurnt
+FoodHorseMeatBurnt
+FoodMammothMeatBurnt
+FoodPheasantBurnt
+FoodRabbitBurnt
+FoodSalmonBurnt
+FoodVenisonBurnt
+FoodLeeksGrilledBurnt
+FoodPotatoesBurnt
+FoodSlaughterfishBurnt

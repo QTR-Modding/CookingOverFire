@@ -1,0 +1,38 @@
+FoodDogMeat: 000EDB2E
+MAG_FoodDogCooked: MAG_FoodDogCooked
+
+FoodCarrot: 00064B40
+MAG_FoodCarrotCooked: MAG_FoodCarrotCooked
+
+DLC2FoodAshYam: 040206E7
+MAG_FoodAshYamCooked: MAG_FoodAshYamCooked
+
+Mushroom01: 0004DA00
+MAG_FoodMushroomsCooked01: MAG_FoodMushroomsCooked01
+
+Mushroom02: 0004DA20
+MAG_FoodMushroomsCooked01: MAG_FoodMushroomsCooked01
+
+Mushroom03: 0004DA22
+MAG_FoodMushroomsCooked01: MAG_FoodMushroomsCooked01
+
+Mushroom04: 0004DA23
+MAG_FoodMushroomsCooked01: MAG_FoodMushroomsCooked01
+
+Mushroom05: 0004DA24
+MAG_FoodMushroomsCooked01: MAG_FoodMushroomsCooked01
+
+Mushroom06: 0004DA25
+MAG_FoodMushroomsCooked01: MAG_FoodMushroomsCooked01
+
+ScalyPholiotaBits: 0006F950
+MAG_FoodMushroomsCooked02: MAG_FoodMushroomsCooked02
+
+GlowingMushroom: 0007EE01
+MAG_FoodMushroomsCooked03: MAG_FoodMushroomsCooked03
+
+MAG_FoodSkeever: MAG_FoodSkeever
+FoodCharredSkeeverMeat: 000E8448
+
+MAG_FoodSlaughterfishMeat: MAG_FoodSlaughterfishMeat
+MAG_FoodSlaughterfishCooked: 00064B3C

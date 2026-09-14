@@ -1,0 +1,14 @@
+FoodMeatDog: RND_FoodStaleRawMeatDog
+CACO_FoodMeatDogCooked: CACO_FoodMeatDogCooked
+
+CACO_FoodMeatAshHopperMeat: StaleFoodAshHopperMeat
+CACO_FoodMeatAshHopperMeatCooked: CACO_FoodMeatAshHopperMeatCooked
+
+DLC2FoodVegAshYam: StaleFoodAshYam
+CACO_FoodVegAshYamBaked: CACO_FoodVegAshYamBaked
+
+DLC2FoodMeatAshHopperLeg: StaleFoodAshHopperLeg
+CACO_FoodMeatAshHopperLegCooked_SL00: CACO_FoodMeatAshHopperLegCooked_SL00
+
+FoodSeaClam: StaleFoodClamMeat
+CACO_FoodSeaClamCooked: CACO_FoodSeaClamCooked

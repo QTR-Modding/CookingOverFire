@@ -1,0 +1,8 @@
+_Ds_Food_GoatHaunch: _DS_Food_GoatHaunch
+FoodGoatMeatBurnt: FoodGoatMeatBurnt
+
+HB_FireFood_Food_MammothSteak: HB_FireFood_Food_MammothSteak
+FoodMammothMeatBurnt: FoodMammothMeatBurnt
+
+_DS_Food_SearedRabbit: _DS_Food_SearedRabbit
+FoodRabbitBurnt: FoodRabbitBurnt

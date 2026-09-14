@@ -1,0 +1,11 @@
+Elseweyr Meat: 0xC28~Simple_Bosmer_Harvesting.esp
+_GenericCookedMeat: _GenericCookedMeat
+
+_Foodhumanflesh: 0xC29~Simple_Bosmer_Harvesting.esp
+_GenericCookedMeat: _GenericCookedMeat
+
+_Foodmermeat: 0xC2A~Simple_Bosmer_Harvesting.esp
+_GenericCookedMeat: _GenericCookedMeat
+
+_Foodlizzardmeat: 0xC2B~Simple_Bosmer_Harvesting.esp
+_GenericCookedMeat: _GenericCookedMeat

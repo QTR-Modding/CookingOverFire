@@ -1,0 +1,20 @@
+Potato: FoodPotato065
+FoodPotatoesBaked: 00064B3A
+
+Potato: FoodPotato070
+FoodPotatoesBaked: 00064B3A
+
+Potato: FoodPotato078
+FoodPotatoesBaked: 00064B3A
+
+Potato: FoodPotato02
+FoodPotatoesBaked: 00064B3A
+
+Potato: FoodPotato03
+FoodPotatoesBaked: 00064B3A
+
+Potato: FoodPotato04
+FoodPotatoesBaked: 00064B3A
+
+Potato: FoodPotato05
+FoodPotatoesBaked: 00064B3A

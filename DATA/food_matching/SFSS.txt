@@ -1,0 +1,38 @@
+Raw Beef: RND_FoodStaleRawMeatBeef
+Cooked Beef: 000721E8
+ 
+Leg of Goat: RND_FoodStaleRawMeatGoat
+Leg of Goat Roast: 0007224C
+ 
+Horker Meat: RND_FoodStaleRawMeatHorker
+Horker Loaf: 0007224E
+ 
+Horse Meat: RND_FoodStaleRawMeatHorse
+Horse Haunch: 000722B0
+ 
+Mammoth Snout: RND_FoodStaleRawMeatMammoth
+Mammoth Steak: 000722BB
+ 
+Pheasant Breast: RND_FoodStaleRawMeatPheasant
+Pheasant Roast: 000722C7
+ 
+Raw Rabbit Leg: RND_FoodStaleRawMeatRabbit
+Rabbit Haunch: 000722C2
+ 
+Salmon Meat: StaleFoodCookedSalmon
+Salmon Steak: 00064B3B
+ 
+Venison: RND_FoodStaleRawMeatVenison
+Venison Chop: FoodVenisonCooked
+
+FoodLeek: StaleFoodLeek
+FoodLeeksGrilled: 00064B3E
+
+FoodPotato: RND_FoodStalePotato
+FoodPotatoesBaked: 00064B3A
+
+DLC2FoodBoarMeat: StaleFoodBoarMeat
+DLC2FoodBoarMeatCooked: 0403CF72
+
+BYOHFoodMudcrabLegs: StaleFoodMudcrabLegs
+BYOHFoodMudcrabLegsCooked: 0300353F

@@ -1,0 +1,2 @@
+DLC2FoodBoarMeat: 0403BD14
+DLC2FoodBoarMeatCooked: 0403CF72

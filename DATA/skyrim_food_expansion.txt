@@ -1,0 +1,610 @@
+Salt Pile: SaltPile
+Raw Meat: Alax_RawMeat01
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato02
+ 
+Venison Stew: FoodVenisonStew
+Salt Pile: SaltPile
+Raw Meat: Alax_RawMeat01
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato04
+ 
+Venison Stew: FoodVenisonStew
+Salt Pile: SaltPile
+Raw Meat: Alax_RawMeat01
+Beetroot: Alax_Beetroot
+Almond: Alax_Almond01
+ 
+Venison Stew: FoodVenisonStew
+Salt Pile: SaltPile
+Raw Meat: Alax_RawMeat01
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato08
+ 
+Venison Stew: FoodVenisonStew
+Salt Pile: SaltPile
+Raw Meat: Alax_RawMeat01
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato06
+ 
+Venison Stew: FoodVenisonStew
+Salt Pile: SaltPile
+Raw Meat: Alax_RawMeat01
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato05
+ 
+Venison Stew: FoodVenisonStew
+Salt Pile: SaltPile
+Raw Meat: Alax_RawMeat01
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato07
+ 
+Apple Cabbage Stew: FoodAppleCabbageStew
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Green Apple: Alax_Apple02
+ 
+Apple Cabbage Stew: FoodAppleCabbageStew
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Red Apple: Alax_Apple03
+ 
+Apple Cabbage Stew: FoodAppleCabbageStew
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Red Apple: Alax_Apple04
+ 
+Apple Cabbage Stew: FoodAppleCabbageStew
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Red Apple: Alax_Apple05
+ 
+Apple Cabbage Stew: FoodAppleCabbageStew
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Green Apple: Alax_Apple07
+ 
+Apple Cabbage Stew: FoodAppleCabbageStew
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Red Apple: Alax_Apple06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Garlic: Alax_Garlic01
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Garlic: Alax_Garlic01
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Garlic: Alax_Garlic01
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Garlic: Alax_Garlic01
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Garlic: Alax_Garlic01
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Garlic: Alax_Garlic01
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Garlic: Alax_Garlic01
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato08
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Garlic: Alax_Garlic01
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato09
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato09
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato08
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato07
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato06
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato05
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato04
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato03
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato02
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Tomato: Alax_Tomato01
+Beetroot: Alax_Beetroot
+Garlic: Alax_Garlic02
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato09
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato08
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato07
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato06
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato05
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato04
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato03
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato02
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Tomato: Alax_Tomato01
+Beetroot: Alax_Beetroot
+Garlic: Alax_Garlic03
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato09
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato08
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato07
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato06
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato05
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato04
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato03
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato02
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Tomato: Alax_Tomato01
+Beetroot: Alax_Beetroot
+Garlic: Alax_Garlic04
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato09
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato08
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato07
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato06
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato05
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato04
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato03
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato02
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Tomato: Alax_Tomato01
+Beetroot: Alax_Beetroot
+Garlic: Alax_Garlic05
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato09
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato08
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato07
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato06
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato05
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato04
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato03
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato02
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Tomato: Alax_Tomato01
+Beetroot: Alax_Beetroot
+Garlic: Alax_Garlic06
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato09
+Garlic: Alax_Garlic07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato08
+Garlic: Alax_Garlic07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato07
+Garlic: Alax_Garlic07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato06
+Garlic: Alax_Garlic07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato05
+Garlic: Alax_Garlic07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato04
+Garlic: Alax_Garlic07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato03
+Garlic: Alax_Garlic07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Beetroot: Alax_Beetroot
+Tomato: Alax_Tomato02
+Garlic: Alax_Garlic07
+ 
+Tomato Soup: FoodTomatoSoup
+Salt Pile: SaltPile
+Tomato: Alax_Tomato01
+Beetroot: Alax_Beetroot
+Garlic: Alax_Garlic07
+ 
+Garlic: Alax_Garlic02
+Garlic: Alax_Garlic01
+ 
+Garlic: Alax_Garlic02
+Garlic: Alax_Garlic03
+ 
+Garlic: Alax_Garlic06
+Garlic: Alax_Garlic04
+ 
+Garlic: Alax_Garlic07
+Garlic: Alax_Garlic05
+ 
+Cabbage Potato Soup: FoodCabbagePotatoSoup
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato02
+ 
+Cabbage Potato Soup: FoodCabbagePotatoSoup
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato03
+ 
+Cabbage Potato Soup: FoodCabbagePotatoSoup
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato04
+ 
+Cabbage Potato Soup: FoodCabbagePotatoSoup
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato05
+ 
+Cabbage Potato Soup: FoodCabbagePotatoSoup
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato06
+ 
+Cabbage Potato Soup: FoodCabbagePotatoSoup
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato07
+ 
+Cabbage Potato Soup: FoodCabbagePotatoSoup
+Salt Pile: SaltPile
+Green Cabbage: Alax_GreenCabbage
+Beetroot: Alax_Beetroot
+Potato: Alax_Potato08
+ 
+Potato: Alax_Potato08
+Potato: Alax_Potato05
+ 
+Potato: Alax_Potato08
+Potato: Alax_Potato06
+ 
+Potato: Alax_Potato08
+Potato: Alax_Potato07
+ 
+Sweet Potato: Alax_SweetPotato06
+Sweet Potato: Alax_SweetPotato03
+ 
+Sweet Potato: Alax_SweetPotato06
+Sweet Potato: Alax_SweetPotato04
+ 
+Sweet Potato: Alax_SweetPotato06
+Sweet Potato: Alax_SweetPotato05
+ 
+Gourd: Alax_Gourd02
+Gourd: Alax_Gourd04
+ 
+Gourd: Alax_Gourd03
+Gourd: Alax_Gourd04
+ 
+Gourd Slice: Alax_GourdSlice
+Gourd: Alax_Gourd02
+ 
+Gourd Slice: Alax_GourdSlice
+Gourd: Alax_Gourd03
+ 
+Gourd Slice: Alax_GourdSlice
+Gourd: Alax_Gourd04
+ 
+Ginger: Alax_Ginger01
+Ginger: Alax_Ginger02
+ 
+Ginger: Alax_Ginger01
+Ginger: Alax_Ginger03
+ 
+Ginger Slice: Alax_GingerSlice
+Ginger: Alax_Ginger01
+ 
+Ginger Slice: Alax_GingerSlice
+Ginger: Alax_Ginger02
+ 
+Ginger Slice: Alax_GingerSlice
+Ginger: Alax_Ginger03
+ 
+Walnut Bread: Alax_WalnutBread
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Walnut: Alax_Walnut01
+ 
+Walnut Bread: Alax_WalnutBread
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Walnut: Alax_Walnut02
+ 
+Walnut Bread: Alax_WalnutBread
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Walnut: Alax_Walnut03
+ 
+Half Walnut Bread: Alax_HalfWalnutBread
+Walnut Bread: Alax_WalnutBread
+ 
+Nutty Bread: Alax_NuttyBread
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Chestnut: Alax_Chestnut
+ 
+Pumpkin Pie: Alax_PumpkinPie01
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Pumpkin: Alax_Pumpkin01
+ 
+Pumpkin Pie: Alax_PumpkinPie01
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Pumpkin: Alax_Pumpkin02
+ 
+Pumpkin Pie: Alax_PumpkinPie01
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Pumpkin: Alax_Pumpkin03
+ 
+Pumpkin Pie: Alax_PumpkinPie01
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Pumpkin: Alax_Pumpkin04
+ 
+Pumpkin Pie: Alax_PumpkinPie01
+Salt Pile: SaltPile
+Rock Warbler Egg: BirdEgg01
+Sack of Flour: BYOHFoodFlour
+Butter: BYOHFoodButter
+Pumpkin: Alax_Pumpkin05

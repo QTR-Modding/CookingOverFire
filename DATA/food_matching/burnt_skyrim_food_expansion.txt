@@ -1,0 +1,2 @@
+Alax_CookedFish: Alax_CookedFish
+FoodSalmonBurnt: FoodSalmonBurnt

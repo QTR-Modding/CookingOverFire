@@ -1,0 +1,35 @@
+Chicken Breast: 000F2011
+Grilled Chicken Breast: 000E8947
+ 
+Raw Beef: 00065C99
+Cooked Beef: 000721E8
+ 
+Leg of Goat: 00065C9A
+Leg of Goat Roast: 0007224C
+ 
+Horker Meat: 00065C9B
+Horker Loaf: 0007224E
+ 
+Horse Meat: 00065C9C
+Horse Haunch: 000722B0
+ 
+Mammoth Snout: 000669A4
+Mammoth Steak: 000722BB
+ 
+Pheasant Breast: 00065C9D
+Pheasant Roast: 000722C7
+ 
+Raw Rabbit Leg: 00065C9E
+Rabbit Haunch: 000722C2
+ 
+Salmon Meat: 00065C9F
+Salmon Steak: 00064B3B
+ 
+Venison: FoodVenison
+Venison Chop: FoodVenisonCooked
+
+FoodLeek: 000669A5
+FoodLeeksGrilled: 00064B3E
+
+FoodPotato: 00064B41
+FoodPotatoesBaked: 00064B3A

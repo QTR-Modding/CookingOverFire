@@ -1,0 +1,35 @@
+Chicken Breast: FoodChickenhav
+Grilled Chicken Breast: FoodChickenCookedhav
+ 
+FoodhSAUSAGE01: FoodhSAUSAGE01
+FoodhSAUSAGE01cooked: FoodhSAUSAGE01cooked
+ 
+FoodLeekhav: FoodLeekhav
+FoodLeeksGrilledhav: FoodLeeksGrilledhav
+ 
+Foodhporkbutt: Foodhporkbutt
+Foodhporkbuttcooked: Foodhporkbuttcooked
+
+FoodPheasanthav: FoodPheasanthav
+FoodPheasantCookedhav: FoodPheasantCookedhav
+
+FoodPheasanthav01: FoodPheasanthav01
+FoodPheasantCookedhav02: FoodPheasantCookedhav02
+
+FoodPotato02: FoodPotato02
+FoodPotatoesBaked: 00064B3A
+
+FoodPotato02: FoodPotato02
+FoodPotatoesBaked: 00064B3A
+
+FoodPotato03: FoodPotato03
+FoodPotatoesBaked: 00064B3A
+
+FoodPotato04: FoodPotato04
+FoodPotatoesBaked: 00064B3A
+
+FoodPotato05: FoodPotato05
+FoodPotatoesBaked: 00064B3A
+
+FoodPotatohav: FoodPotatohav
+FoodPotatoesBaked: 00064B3A

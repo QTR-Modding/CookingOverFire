@@ -1,0 +1,41 @@
+HawkBeak 000E7EBC: 000E7EBC
+Charred Hawk Beak: _DS_CharredHawkBeak
+
+_DS_Food_Raw_Bear: _DS_Food_Raw_Bear
+Bear Steak: HB_FireFood_Food_BearSteak
+
+_DS_Food_Raw_Elk: _DS_Food_Raw_Elk
+_DS_Food_ElkSteak: _DS_Food_ElkSteak
+
+_DS_Food_Raw_Goat: _DS_Food_Raw_Goat
+Goat Haunch: _DS_Food_GoatHaunch
+
+_DS_Food_Raw_Mammoth: _DS_Food_Raw_Mammoth
+Mammoth Steak: HB_FireFood_Food_MammothSteak
+
+_DS_Food_Raw_Sabrecat: _DS_Food_Raw_Sabrecat
+Seared Sabre Cat: HB_FireFood_Food_SearedSabreCat
+
+_DS_Food_Raw_Wolf: _DS_Food_Raw_Wolf
+Wolf Haunch: _DS_Food_WolfHaunch
+
+_DS_Pelt_Skeever_00: _DS_Pelt_Skeever_00
+Charred Skeever Hide: 00052695
+
+_DS_Food_Raw_Skeever: _DS_Food_Raw_Skeever
+Charred Skeever Meat: 000E8448
+
+_DS_Food_Raw_Troll: _DS_Food_Raw_Troll
+Charred Troll: _DS_Food_CharredTroll
+
+_DS_Misc_AnimalFat: _DS_Misc_AnimalFat
+Seared Fat: _DS_Food_SearedFat
+
+_DS_Food_Raw_Fox: _DS_Food_Raw_Fox
+Seared Fox: _DS_Food_SearedFox
+
+_DS_Food_Raw_Hare: _DS_Food_Raw_Hare
+Seared Rabbit: _DS_Food_SearedRabbit
+
+_DS_Food_Raw_Slaughterfish: _DS_Food_Raw_Slaughterfish
+Seared Slaughterfish: 00064B3C

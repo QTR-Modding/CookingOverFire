@@ -1,0 +1,6 @@
+stages:
+  - name: Fresh
+    FormEditorID:
+    duration: 10000000
+    no: 0
+finalFormEditorID: ccBGS_RootRotScaleIngredient
