@@ -1,4 +1,3 @@
-from funcs import *
 from utils import get_fire_sources, get_food_source_comments, get_food_sources
 from config import cfg
 import os
@@ -11,6 +10,38 @@ cooking_sound = "0x1~quantAoTBBQ.esp"
 cooking_smoke = "_quantSmokeExhaleFX"
 fire_group_main = "qAoTFireMain"
 fire_group_inv = "qAoTFireInv"
+
+def make_preset(pairs, comments, group_nodes):
+    lines = [
+        "# Shared cooking settings; duration is in game hours.",
+        "cooking: &cooking",
+        f"  FormEditorID: {fire_group_main}",
+        f"  duration: {cooking_duration}",
+        f"  color: {tint_color}",
+        f"  sound: {cooking_sound}",
+        f"  art_object: {cooking_smoke}",
+    ]
+    if any(container_group for _, container_group in group_nodes):
+        lines.extend([
+            "",
+            "# Torches and fire salts: nearby world objects only.",
+            "# These forms cannot be containers, so inventories never match.",
+            "portableHeat: &portableHeat",
+            "  <<: *cooking",
+            f"  FormEditorID: {fire_group_inv}",
+            f"  containers: {fire_group_inv}",
+        ])
+    lines.extend(["", "formsLists:"])
+    for source, destination in pairs.items():
+        lines.extend([f"- forms: {source} # {comments[source]}", "  transformers:"])
+        for _, container_group in group_nodes:
+            anchor = "portableHeat" if container_group else "cooking"
+            lines.extend([
+                f"  - <<: *{anchor}",
+                f"    finalFormEditorID: {destination} # {comments[destination]}",
+            ])
+    return "\n".join(lines) + "\n"
+
 
 if __name__ == "__main__":
     fire_sources = get_fire_sources()
@@ -48,63 +79,13 @@ if __name__ == "__main__":
 
     for filename, pairs in food_sources.items():
         print(f"File: {filename}")
-        wrapped_blocks = []
-        comments = food_source_comments[filename]
-        for from_, to_ in pairs.items():
-            transformers_block = []
-            for fire_group, container_group in group_nodes:
-                if container_group:
-                    transformerNode = transformer_node(
-                        FormEditorID=fire_group,
-                        finalFormEditorID=to_,
-                        duration=cooking_duration,
-                        color=tint_color,
-                        sound=cooking_sound,
-                        art_object=cooking_smoke,
-                        containers=container_group
-                    )
-                    transformerNode = add_comment_to_keys(
-                        transformerNode,
-                        {'containers': 'trick to make it function only outside inventories'}
-                    )
-                else:
-                    transformerNode = transformer_node(
-                        FormEditorID=fire_group,
-                        finalFormEditorID=to_,
-                        duration=cooking_duration,
-                        color=tint_color,
-                        sound=cooking_sound,
-                        art_object=cooking_smoke
-                    )
-
-                transformerNode = add_comment_to_keys(
-                    transformerNode,
-                    {'finalFormEditorID': comments[to_]}
-                )
-                transformers_block.append(transformerNode)
-            transformers_block = concatenate_nodes(*transformers_block)
-            forms_block = owner_block(
-                owner_title="forms",
-                owners=from_
-            )
-            forms_block = add_comment_to_keys(
-                forms_block,
-                {'forms': comments[from_]}
-            )
-            child_blocks = {
-                'transformers': transformers_block
-            }
-            wrapped_block = block_wrapper(forms_block, child_blocks, start="")
-            wrapped_block = f"{wrapped_block.replace('\n', '\n')}"
-            wrapped_blocks.append(wrapped_block)
-        wrapped_blocks = concatenate_nodes(*wrapped_blocks)
-        wrapped_blocks = 'formsLists:\n' + wrapped_blocks
+        preset = make_preset(pairs, food_source_comments[filename], group_nodes)
         # write the output to a file
         folder_path = cfg['PATH']['OUTPUT']
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
         with open(folder_path + f"quantAoTBBQ_{filename.split('.')[0]}.yml", "w") as file:
-            file.write(wrapped_blocks)
+            file.write(preset)
 
     # Shared path components
     base_relative_path = "SKSE/Plugins/AlchemyOfTime/FOOD/addon"
