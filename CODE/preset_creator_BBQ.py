@@ -31,15 +31,22 @@ def make_preset(pairs, comments, group_nodes):
             f"  FormEditorID: {fire_group_inv}",
             f"  containers: {fire_group_inv}",
         ])
-    lines.extend(["", "formsLists:"])
+    lines.extend([
+        "",
+        "templates:",
+        "  cookFood:",
+        "    forms: $raw",
+        "    transformers:",
+    ])
+    for _, container_group in group_nodes:
+        anchor = "portableHeat" if container_group else "cooking"
+        lines.extend([
+            f"    - <<: *{anchor}",
+            "      finalFormEditorID: $cooked",
+        ])
+    lines.extend(["", "# Each pair maps an input item to its cooked or burnt result.", "formsLists:"])
     for source, destination in pairs.items():
-        lines.extend([f"- forms: {source} # {comments[source]}", "  transformers:"])
-        for _, container_group in group_nodes:
-            anchor = "portableHeat" if container_group else "cooking"
-            lines.extend([
-                f"  - <<: *{anchor}",
-                f"    finalFormEditorID: {destination} # {comments[destination]}",
-            ])
+        lines.append(f"- cookFood({source}, {destination}) # {comments[source]} -> {comments[destination]}")
     return "\n".join(lines) + "\n"
 
 
