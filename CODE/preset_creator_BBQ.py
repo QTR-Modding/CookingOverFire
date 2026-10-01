@@ -35,23 +35,18 @@ def make_preset(pairs, comments, group_nodes):
         "",
         "templates:",
         "  cookFood:",
-        "    parameters: [raw, cooked]",
-        "    body:",
-        "      forms: $raw",
-        "      transformers:",
+        "    forms: $raw",
+        "    transformers:",
     ])
     for _, container_group in group_nodes:
         anchor = "portableHeat" if container_group else "cooking"
         lines.extend([
-            f"      - <<: *{anchor}",
-            "        finalFormEditorID: $cooked",
+            f"    - <<: *{anchor}",
+            "      finalFormEditorID: $cooked",
         ])
     lines.extend(["", "# Each pair maps an input item to its cooked or burnt result.", "formsLists:"])
     for source, destination in pairs.items():
-        lines.extend([
-            "- use: cookFood",
-            f"  args: [{source}, {destination}] # {comments[source]} -> {comments[destination]}",
-        ])
+        lines.append(f"- cookFood({source}, {destination}) # {comments[source]} -> {comments[destination]}")
     return "\n".join(lines) + "\n"
 
 
